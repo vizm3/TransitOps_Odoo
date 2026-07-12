@@ -1,0 +1,26 @@
+[
+  {
+    "id": "al1",
+    "action": "Registered new vehicle Ford Transit 350 (Van-05).",
+    "user": "Sarah Jenkins",
+    "timestamp": "2026-07-01T09:15:00.000Z"
+  },
+  {
+    "id": "al2",
+    "action": "Dispatched Trip t2 to Driver Alex Carter using vehicle Van-05.",
+    "user": "Sarah Jenkins",
+    "timestamp": "2026-07-08T09:30:00.000Z"
+  },
+  {
+    "id": "al3",
+    "action": "Completed Trip t2, updated odometer to 45,200 km, logged 42L fuel.",
+    "user": "Alex Carter",
+    "timestamp": "2026-07-08T15:45:00.000Z"
+  },
+  {
+    "id": "al4",
+    "action": "Created maintenance entry m1 for vehicle Van-08. Status set to In Shop.",
+    "user": "Sarah Jenkins",
+    "timestamp": "2026-07-09T10:30:00.000Z"
+  }
+]

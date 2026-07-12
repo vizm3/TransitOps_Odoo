@@ -1,0 +1,41 @@
+[
+  {
+    "id": "t1",
+    "source": "Warehouse A (Chicago)",
+    "destination": "Retail Hub (Detroit)",
+    "vehicleId": "v3",
+    "driverId": "d2",
+    "cargoWeight": 3500,
+    "plannedDistance": 450,
+    "status": "Dispatched",
+    "odometerStart": 67650,
+    "createdAt": "2026-07-10T08:00:00.000Z"
+  },
+  {
+    "id": "t2",
+    "source": "Distribution Center (Dallas)",
+    "destination": "Depot (Houston)",
+    "vehicleId": "v1",
+    "driverId": "d1",
+    "cargoWeight": 800,
+    "plannedDistance": 380,
+    "status": "Completed",
+    "odometerStart": 44820,
+    "odometerEnd": 45200,
+    "fuelConsumed": 42,
+    "createdAt": "2026-07-08T09:30:00.000Z",
+    "completedAt": "2026-07-08T15:45:00.000Z"
+  },
+  {
+    "id": "t3",
+    "source": "Port of Seattle",
+    "destination": "Logistics Yard (Spokane)",
+    "vehicleId": "v2",
+    "driverId": "d3",
+    "cargoWeight": 7500,
+    "plannedDistance": 460,
+    "status": "Draft",
+    "odometerStart": 124800,
+    "createdAt": "2026-07-11T14:15:00.000Z"
+  }
+]

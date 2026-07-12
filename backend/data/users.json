@@ -1,0 +1,30 @@
+[
+  {
+    "id": "u1",
+    "name": "Sarah Jenkins",
+    "email": "manager@transitops.com",
+    "password": "manager123",
+    "role": "Fleet Manager"
+  },
+  {
+    "id": "u2",
+    "name": "Alex Carter",
+    "email": "driver@transitops.com",
+    "password": "driver123",
+    "role": "Driver"
+  },
+  {
+    "id": "u3",
+    "name": "Marcus Vance",
+    "email": "safety@transitops.com",
+    "password": "safety123",
+    "role": "Safety Officer"
+  },
+  {
+    "id": "u4",
+    "name": "Elena Rostova",
+    "email": "finance@transitops.com",
+    "password": "finance123",
+    "role": "Financial Analyst"
+  }
+]
